@@ -8,6 +8,7 @@ The purpose of this project is for learning TypeScript & Vue3.
 #### Tools
 * Vue 3
 * TailwindCSS
+* Sass
 * ViteJS
 
 #### How to deploy on localhost
